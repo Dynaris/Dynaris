@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Junior%20Dev%20/%20Senior%20Games%20Support-ba822f?style=for-the-badge)
 
 <!-- Description -->
-Motivated self-starter with a strong desire to learn and grow. Experienced in customer-facing service and data analysis, with a creative approach to problem-solving. Currently expanding skills in Programming (Python) and Game Development (Unreal Engine).
+Motivated self-starter with a strong desire to learn and grow. Experienced in customer-facing service and data analysis, with a creative approach to problem-solving. Currently expanding skills in Programming (Python).
 
 <h2 style="color: #ff6600;">  
   <img src="https://img.icons8.com/ios-filled/50/FD7E14/maintenance.png" alt="maintenance" 
