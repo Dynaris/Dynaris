@@ -29,6 +29,8 @@ Backend-Oriented Software Developer | Python, APIs, Linux | AI-Integrated Projec
 <!-- Streak - Not being used at the moment || ![GitHub Streak](https://streak-stats.demolab.com?user=Dynaris&theme=slateorange&hide_border=true) ||  -->
 
 <!-- Boot.dev -->
-![Custom badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Dynaris/3175cdbd483b1288cf99163f1b23b607/raw/96eaae13f697ff46cd2133b09c67e71dbf5abfe1/gistfile1.json&style=for-the-badge)
+[ Boot.dev Level 56 ]
+[ Lessons 646 ]
+[ Rank 18,056 ]
 
 #
